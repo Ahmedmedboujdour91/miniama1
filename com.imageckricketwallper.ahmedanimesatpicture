@@ -1,6 +1,6 @@
 {
   "AdsManager": {
-    "ShowAds": true,
+    "ShowAds": false,
     "AdmobClick": 2,
 
     "BannerAds": "admob",
