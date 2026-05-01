@@ -2,14 +2,15 @@
   "AdsManager": {
     "ShowAds": true,
     "AdmobClick": 2,
+
     "BannerAds": "admob",
     "InterstitialAds": "admob",
     "RewardAds": "admob",
 
-    "AdmobAppID": "ca-app-pub-XXXXXXXXXXXXXXXX~XXXXXXXXXX",
-    "AdmobBanner": "ca-app-pub-XXXXXXXXXXXXXXXX/BBBBBBBBBB",
-    "AdmobInterstitial": "ca-app-pub-XXXXXXXXXXXXXXXX/IIIIIIIIII",
-    "AdmobReward": "ca-app-pub-XXXXXXXXXXXXXXXX/RRRRRRRRRR"
+    "AdmobAppID": "ca-app-pub-3940256099942544~3347511713",
+    "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
+    "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "AdmobReward": "ca-app-pub-3940256099942544/5224354917"
   },
 
   "AppControl":{
