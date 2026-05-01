@@ -2,7 +2,6 @@
   "AdsManager": {
     "ShowAds": true,
     "AdmobClick": 2,
-
     "BannerAds": "admob",
     "InterstitialAds": "admob",
     "RewardAds": "admob",
@@ -16,5 +15,9 @@
   "AppControl":{
     "ShowUpdate": false,
     "UpdateFromAmazon": true
-  }
+  },
+
+  "MoreApps": [],
+  "CpaAds": { "CpaAds": [] },
+  "DropAds": []
 }
