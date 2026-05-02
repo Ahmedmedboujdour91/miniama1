@@ -1,24 +1,22 @@
 {
   "AdsManager": {
-    "ShowAds": false,
+    "ShowAds": true,
     "AdmobClick": 2,
-
-    "BannerAds": "admob",
+    "BannerAds": "none",
     "InterstitialAds": "admob",
     "RewardAds": "admob",
 
     "AdmobAppID": "ca-app-pub-3940256099942544~3347511713",
-    "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
+    "AdmobBanner": "",
     "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
     "AdmobReward": "ca-app-pub-3940256099942544/5224354917"
   },
 
-  "AppControl":{
+  "AppControl": {
     "ShowUpdate": false,
     "UpdateFromAmazon": true
   },
 
   "MoreApps": [],
-  "CpaAds": { "CpaAds": [] },
   "DropAds": []
 }
