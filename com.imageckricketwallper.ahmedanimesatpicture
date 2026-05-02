@@ -13,9 +13,10 @@
   },
 
   "AppControl": {
-    "ShowUpdate": false,
-    "UpdateFromAmazon": true
-  },
+  "ShowUpdate": false,
+  "UpdateFromAmazon": true,
+  "OnesignalID": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+},
 
   "MoreApps": [],
   "DropAds": []
