@@ -1,0 +1,20 @@
+{
+  "AdsManager": {
+    "ShowAds": true,
+    "AdmobClick": 2,
+
+    "BannerAds": "admob",
+    "InterstitialAds": "admob",
+    "RewardAds": "admob",
+
+    "AdmobAppID": "ca-app-pub-XXXXXXXXXXXXXXXX~XXXXXXXXXX",
+    "AdmobBanner": "ca-app-pub-XXXXXXXXXXXXXXXX/BBBBBBBBBB",
+    "AdmobInterstitial": "ca-app-pub-XXXXXXXXXXXXXXXX/IIIIIIIIII",
+    "AdmobReward": "ca-app-pub-XXXXXXXXXXXXXXXX/RRRRRRRRRR"
+  },
+
+  "AppControl":{
+    "ShowUpdate": false,
+    "UpdateFromAmazon": true
+  }
+}
