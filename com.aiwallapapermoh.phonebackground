@@ -1,8 +1,8 @@
 {
   "AdsManager": {
-    "ShowAds":false,
-    "ShowDropAds":false,
-    "ShowCpaAds":false,
+    "ShowAds":true,
+    "ShowDropAds":true,
+    "ShowCpaAds":true,
     "AdmobClick":2,
     "BannerAds":"bb",
     "InterstitialAds":"min",
