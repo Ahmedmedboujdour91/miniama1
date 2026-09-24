@@ -1,0 +1,31 @@
+{
+  "configVersion": 1,
+  "subscription": {
+    "monthlyPrice": "$1.99",
+    "yearlyPrice": "$14.99"
+  },
+  "ads": {
+    "enabled": true,
+    "mintegral": {
+      "enabled": true,
+      "appId": "144002",
+      "appKey": "7c22942b749fe6a6e361b675e96b3ee9",
+
+      "interstitial": {
+        "enabled": true,
+        "placementId": "290653",
+        "unitId": "462374"
+      },
+
+      "rewarded": {
+        "enabled": true,
+        "placementId": "290651",
+        "unitId": "462372"
+      },
+
+      "frequency": {
+        "interstitialEvery": 4
+      }
+    }
+  }
+}
