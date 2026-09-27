@@ -1,31 +1,24 @@
 {
   "configVersion": 1,
-  "subscription": {
-    "monthlyPrice": "$1.99",
-    "yearlyPrice": "$14.99"
-  },
   "ads": {
     "enabled": true,
-    "mintegral": {
+    "interstitial": {
       "enabled": true,
-      "appId": "144002",
-      "appKey": "7c22942b749fe6a6e361b675e96b3ee9",
-
-      "interstitial": {
-        "enabled": true,
-        "placementId": "290653",
-        "unitId": "462374"
-      },
-
-      "rewarded": {
-        "enabled": true,
-        "placementId": "290651",
-        "unitId": "462372"
-      },
-
-      "frequency": {
-        "interstitialEvery": 4
-      }
+      "placementId": "290653",
+      "unitId": "462374"
+    },
+    "rewarded": {
+      "enabled": true,
+      "placementId": "290651",
+      "unitId": "462372"
+    },
+    "frequency": {
+      "interstitialEvery": 4
     }
+  },
+  "premium": {
+    "enabled": true,
+    "monthlySku": "aquarium_tv_premium_monthly",
+    "yearlySku": "aquarium_tv_premium_yearly"
   }
 }
