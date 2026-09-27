@@ -2,6 +2,8 @@
   "configVersion": 1,
   "ads": {
     "enabled": true,
+    "appId": "144002",
+    "appKey": "7c22942b749fe6a6e361b675e96b3ee9",
     "interstitial": {
       "enabled": true,
       "placementId": "290653",
