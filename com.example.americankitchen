@@ -1,14 +1,14 @@
 {
   "mintegral": {
-    "app_id": "5513454",
-    "app_key": "58ff183361b401b851b26e5bdb86a753",
+    "app_id": "144002",
+    "app_key": "7c22942b749fe6a6e361b675e96b3ee9",
     "interstitial": {
-      "unit_id": "6376385",
-      "placement_id": "3937925"
+      "unit_id": "462374",
+      "placement_id": "290653"
     },
     "rewarded": {
-      "unit_id": "6376399",
-      "placement_id": "000000"
+      "unit_id": "462372",
+      "placement_id": "290651"
     }
   }
 }
