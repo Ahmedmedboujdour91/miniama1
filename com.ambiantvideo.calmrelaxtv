@@ -1,0 +1,510 @@
+{
+  "version": 1,
+  "app_name": "Ambient TV – Relaxing Videos",
+  "categories": [
+    {
+      "id": "fireplaces",
+      "name": "Fireplaces",
+      "thumbnail": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1170&auto=format&fit=crop",
+      "videos": [
+        {
+          "id": "fp_1",
+          "title": "Classic Brick Fireplace",
+          "description": "Classic Brick Fireplace - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1170&auto=format&fit=crop",
+          "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "video_type": "mp4",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": false,
+          "loop": true,
+          "featured": false,
+          "active": true
+        },
+        {
+          "id": "fp_2",
+          "title": "Modern Minimalist Fireplace",
+          "description": "Modern Minimalist Fireplace - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1513694203232-719a280e022f?q=80&w=1169&auto=format&fit=crop",
+          "video_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv/bipbop_16x9_variant.m3u8",
+          "video_type": "hls",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": true,
+          "loop": true,
+          "featured": false,
+          "active": true
+        },
+        {
+          "id": "fp_3",
+          "title": "Luxury Stone Fireplace",
+          "description": "Luxury Stone Fireplace - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=1170&auto=format&fit=crop",
+          "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "video_type": "mp4",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": false,
+          "loop": true,
+          "featured": false,
+          "active": true
+        },
+        {
+          "id": "fp_4",
+          "title": "Christmas Holiday Fireplace",
+          "description": "Christmas Holiday Fireplace - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1543255006-d6395e6f162f?q=80&w=1170&auto=format&fit=crop",
+          "video_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv/bipbop_16x9_variant.m3u8",
+          "video_type": "hls",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": true,
+          "loop": true,
+          "featured": false,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "aquariums",
+      "name": "Aquariums",
+      "thumbnail": "https://images.unsplash.com/photo-1522720833375-9c27ffb02a5e?q=80&w=1198&auto=format&fit=crop",
+      "videos": [
+        {
+          "id": "aq_1",
+          "title": "Tropical Fish Reef",
+          "description": "Tropical Fish Reef - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1522720833375-9c27ffb02a5e?q=80&w=1198&auto=format&fit=crop",
+          "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "video_type": "mp4",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": false,
+          "loop": true,
+          "featured": false,
+          "active": true
+        },
+        {
+          "id": "aq_2",
+          "title": "Vibrant Coral Gardens",
+          "description": "Vibrant Coral Gardens - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1694661641480-d4e76d6bead3?q=80&w=1170&auto=format&fit=crop",
+          "video_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv/bipbop_16x9_variant.m3u8",
+          "video_type": "hls",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": true,
+          "loop": true,
+          "featured": false,
+          "active": true
+        },
+        {
+          "id": "aq_3",
+          "title": "Glowing Jellyfish Drift",
+          "description": "Glowing Jellyfish Drift - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1768463852214-5f300e733c41?q=80&w=1170&auto=format&fit=crop",
+          "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "video_type": "mp4",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": false,
+          "loop": true,
+          "featured": false,
+          "active": true
+        },
+        {
+          "id": "aq_4",
+          "title": "Deep Ocean Blue Abyss",
+          "description": "Deep Ocean Blue Abyss - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1691180660499-0eac63269e0f?q=80&w=1074&auto=format&fit=crop",
+          "video_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv/bipbop_16x9_variant.m3u8",
+          "video_type": "hls",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": false,
+          "loop": true,
+          "featured": false,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "nature",
+      "name": "Nature",
+      "thumbnail": "https://images.unsplash.com/photo-1448375240586-882707db888b?q=80&w=1170&auto=format&fit=crop",
+      "videos": [
+        {
+          "id": "nt_1",
+          "title": "Serene Pine Forest",
+          "description": "Serene Pine Forest - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1448375240586-882707db888b?q=80&w=1170&auto=format&fit=crop",
+          "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "video_type": "mp4",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": false,
+          "loop": true,
+          "featured": false,
+          "active": true
+        },
+        {
+          "id": "nt_2",
+          "title": "Majestic Waterfalls",
+          "description": "Majestic Waterfalls - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?q=80&w=1170&auto=format&fit=crop",
+          "video_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv/bipbop_16x9_variant.m3u8",
+          "video_type": "hls",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": true,
+          "loop": true,
+          "featured": false,
+          "active": true
+        },
+        {
+          "id": "nt_3",
+          "title": "Misty Mountain Peaks",
+          "description": "Misty Mountain Peaks - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1170&auto=format&fit=crop",
+          "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "video_type": "mp4",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": false,
+          "loop": true,
+          "featured": false,
+          "active": true
+        },
+        {
+          "id": "nt_4",
+          "title": "Flowing River Stream",
+          "description": "Flowing River Stream - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1170&auto=format&fit=crop",
+          "video_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv/bipbop_16x9_variant.m3u8",
+          "video_type": "hls",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": false,
+          "loop": true,
+          "featured": false,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "rain_storms",
+      "name": "Rain & Storms",
+      "thumbnail": "https://images.unsplash.com/photo-1519692933481-e162a57d6721?q=80&w=1170&auto=format&fit=crop",
+      "videos": [
+        {
+          "id": "rs_1",
+          "title": "Rainy Windowpane Drops",
+          "description": "Rainy Windowpane Drops - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1519692933481-e162a57d6721?q=80&w=1170&auto=format&fit=crop",
+          "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "video_type": "mp4",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": false,
+          "loop": true,
+          "featured": false,
+          "active": true
+        },
+        {
+          "id": "rs_2",
+          "title": "Gentle Thunderstorm",
+          "description": "Gentle Thunderstorm - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1534088568595-a066f410bcda?q=80&w=1170&auto=format&fit=crop",
+          "video_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv/bipbop_16x9_variant.m3u8",
+          "video_type": "hls",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": true,
+          "loop": true,
+          "featured": false,
+          "active": true
+        },
+        {
+          "id": "rs_3",
+          "title": "Rain Forest Canopy",
+          "description": "Rain Forest Canopy - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?q=80&w=1127&auto=format&fit=crop",
+          "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "video_type": "mp4",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": false,
+          "loop": true,
+          "featured": false,
+          "active": true
+        },
+        {
+          "id": "rs_4",
+          "title": "Ocean Storm Waves",
+          "description": "Ocean Storm Waves - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=1170&auto=format&fit=crop",
+          "video_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv/bipbop_16x9_variant.m3u8",
+          "video_type": "hls",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": false,
+          "loop": true,
+          "featured": false,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "beaches_oceans",
+      "name": "Beaches & Oceans",
+      "thumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1173&auto=format&fit=crop",
+      "videos": [
+        {
+          "id": "bo_1",
+          "title": "Tropical Beach Paradise",
+          "description": "Tropical Beach Paradise - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1173&auto=format&fit=crop",
+          "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "video_type": "mp4",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": false,
+          "loop": true,
+          "featured": false,
+          "active": true
+        },
+        {
+          "id": "bo_2",
+          "title": "Relaxing Ocean Waves",
+          "description": "Relaxing Ocean Waves - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?q=80&w=1126&auto=format&fit=crop",
+          "video_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv/bipbop_16x9_variant.m3u8",
+          "video_type": "hls",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": true,
+          "loop": true,
+          "featured": false,
+          "active": true
+        },
+        {
+          "id": "bo_3",
+          "title": "Sunset Golden Beach",
+          "description": "Sunset Golden Beach - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?q=80&w=1170&auto=format&fit=crop",
+          "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "video_type": "mp4",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": false,
+          "loop": true,
+          "featured": false,
+          "active": true
+        },
+        {
+          "id": "bo_4",
+          "title": "Remote Island Views",
+          "description": "Remote Island Views - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?q=80&w=1170&auto=format&fit=crop",
+          "video_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv/bipbop_16x9_variant.m3u8",
+          "video_type": "hls",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": false,
+          "loop": true,
+          "featured": false,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "space_universe",
+      "name": "Space & Universe",
+      "thumbnail": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?q=80&w=1170&auto=format&fit=crop",
+      "videos": [
+        {
+          "id": "su_1",
+          "title": "Deep Space Galaxies",
+          "description": "Deep Space Galaxies - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?q=80&w=1170&auto=format&fit=crop",
+          "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "video_type": "mp4",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": false,
+          "loop": true,
+          "featured": false,
+          "active": true
+        },
+        {
+          "id": "su_2",
+          "title": "Colorful Cosmic Nebula",
+          "description": "Colorful Cosmic Nebula - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1022&auto=format&fit=crop",
+          "video_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv/bipbop_16x9_variant.m3u8",
+          "video_type": "hls",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": true,
+          "loop": true,
+          "featured": false,
+          "active": true
+        },
+        {
+          "id": "su_3",
+          "title": "Orbiting Planets",
+          "description": "Orbiting Planets - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?q=80&w=1074&auto=format&fit=crop",
+          "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "video_type": "mp4",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": false,
+          "loop": true,
+          "featured": false,
+          "active": true
+        },
+        {
+          "id": "su_4",
+          "title": "Serene Starry Night Sky",
+          "description": "Serene Starry Night Sky - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1170&auto=format&fit=crop",
+          "video_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv/bipbop_16x9_variant.m3u8",
+          "video_type": "hls",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": false,
+          "loop": true,
+          "featured": false,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "meditation_sleep",
+      "name": "Meditation & Sleep",
+      "thumbnail": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=1170&auto=format&fit=crop",
+      "videos": [
+        {
+          "id": "ms_1",
+          "title": "Deep Sleep Ambience",
+          "description": "Deep Sleep Ambience - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=1170&auto=format&fit=crop",
+          "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "video_type": "mp4",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": false,
+          "loop": true,
+          "featured": false,
+          "active": true
+        },
+        {
+          "id": "ms_2",
+          "title": "Zen Japanese Garden",
+          "description": "Zen Japanese Garden - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=1170&auto=format&fit=crop",
+          "video_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv/bipbop_16x9_variant.m3u8",
+          "video_type": "hls",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": true,
+          "loop": true,
+          "featured": false,
+          "active": true
+        },
+        {
+          "id": "ms_3",
+          "title": "Calm Atmosphere Lights",
+          "description": "Calm Atmosphere Lights - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?q=80&w=1170&auto=format&fit=crop",
+          "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "video_type": "mp4",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": false,
+          "loop": true,
+          "featured": false,
+          "active": true
+        },
+        {
+          "id": "ms_4",
+          "title": "Spa & Relaxation Haven",
+          "description": "Spa & Relaxation Haven - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?q=80&w=1170&auto=format&fit=crop",
+          "video_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv/bipbop_16x9_variant.m3u8",
+          "video_type": "hls",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": false,
+          "loop": true,
+          "featured": false,
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "scenic_views",
+      "name": "Scenic Views",
+      "thumbnail": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?q=80&w=1174&auto=format&fit=crop",
+      "videos": [
+        {
+          "id": "sv_1",
+          "title": "Luxury Alpine Views",
+          "description": "Luxury Alpine Views - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?q=80&w=1174&auto=format&fit=crop",
+          "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "video_type": "mp4",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": false,
+          "loop": true,
+          "featured": false,
+          "active": true
+        },
+        {
+          "id": "sv_2",
+          "title": "Mirror Mountain Lakes",
+          "description": "Mirror Mountain Lakes - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1170&auto=format&fit=crop",
+          "video_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv/bipbop_16x9_variant.m3u8",
+          "video_type": "hls",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": true,
+          "loop": true,
+          "featured": false,
+          "active": true
+        },
+        {
+          "id": "sv_3",
+          "title": "Cosmopolitan City Nights",
+          "description": "Cosmopolitan City Nights - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1519501025264-65ba15a82390?q=80&w=1164&auto=format&fit=crop",
+          "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "video_type": "mp4",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": false,
+          "loop": true,
+          "featured": false,
+          "active": true
+        },
+        {
+          "id": "sv_4",
+          "title": "Peaceful Countryside Vistas",
+          "description": "Peaceful Countryside Vistas - Relaxing 4K video ambience for Ambient TV",
+          "thumbnail": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?q=80&w=1170&auto=format&fit=crop",
+          "video_url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv/bipbop_16x9_variant.m3u8",
+          "video_type": "hls",
+          "quality": "4K UHD",
+          "duration": 3600,
+          "premium": false,
+          "loop": true,
+          "featured": false,
+          "active": true
+        }
+      ]
+    }
+  ]
+}
